@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-         <h1>Siga</h1>
+         <h1>o bagulho é nota falsa!</h1>
          <p> <a href="index.php">Voltar</a>
         <?php
         // put your code here
